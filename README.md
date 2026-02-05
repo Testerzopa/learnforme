@@ -6,3 +6,6 @@ I want to be Developer such as Website developer but im so lazy person so I want
 
 # My Challenge
 I will join Github and apply what I learn down into this code.
+
+# Link
+https://testerzopa.github.io/learnforme/
